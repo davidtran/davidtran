@@ -1,1 +1,1 @@
-[![](https://raw.githubusercontent.com/davidtranwd/davidtranwd/main/chat.svg)](https://lingodrip.app)
+[![](https://raw.githubusercontent.com/davidtran/davidtran/main/about.svg)](https://lingodrip.app)
